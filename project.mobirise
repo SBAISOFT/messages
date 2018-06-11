@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "MESSAGES",
+    "name": "sbs",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -32,8 +32,9 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 6,
-    "versionPublish": "4.7.7"
+    "uniqCompNum": 2,
+    "versionPublish": "4.7.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -278,16 +279,11 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
-            },
-            "H2": {
-              "text-align": "right",
-              "color": "#ff3366"
             }
           },
           "_name": "slider1",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Diapositives\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
-          "_cid": "qUgukMn8Do",
-          "_anchor": "slider1-5",
+          "_cid": "qUCSiPHa2F",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -298,11 +294,11 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "3000",
+            "slides__autoplayInterval": "5000",
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/c-masjed002-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diapositive1-720x405.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -312,15 +308,14 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "&nbsp;",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mawaqit.net/fr/sbaisoft-canada\" data-toolbar=\"-mbrBtnMove\">Pour WINDOWS</a> ",
-                "overlayOpacity": "0"
+                "title": "Diapositive Vidéo",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Diapositive avec vidéo Youtube en fond et superposition de couleur. Le titre et le texte sont alignés à gauche.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/c-masjed006-600x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diapositive2-720x405.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -330,15 +325,99 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "&nbsp;",
-                "overlay": true,
+                "title": "Diapositive Vidéo",
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mawaqit.net/fr/sbaisoft-canada\" data-toolbar=\"-mbrBtnMove\">Pour WINDOWS</a> ",
-                "overlayOpacity": "0"
+                "text": "Diapositive avec vidéo Youtube en fond et superposition de couleur. Le titre et le texte sont alignés à gauche.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/c-masjed050-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diapositive3-720x405.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Diapositive Vidéo",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Diapositive avec vidéo Youtube en fond et superposition de couleur. Le titre et le texte sont alignés à gauche.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/diapositive4-720x405.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Diapositive Vidéo",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Diapositive avec vidéo Youtube en fond et superposition de couleur. Le titre et le texte sont alignés à gauche.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/diapositive5-720x405.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Diapositive Vidéo",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Diapositive avec vidéo Youtube en fond et superposition de couleur. Le titre et le texte sont alignés à gauche.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/diapositive6-720x405.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Diapositive Vidéo",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Diapositive avec vidéo Youtube en fond et superposition de couleur. Le titre et le texte sont alignés à gauche.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/diapositive7-720x405.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Diapositive Vidéo",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Diapositive avec vidéo Youtube en fond et superposition de couleur. Le titre et le texte sont alignés à gauche.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/diapositive8-720x405.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -348,15 +427,15 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "&nbsp;",
-                "overlay": true,
+                "title": "Diapositive Vidéo",
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mawaqit.net/fr/sbaisoft-canada\" data-toolbar=\"-mbrBtnMove\">Pour WINDOWS</a> ",
-                "overlayOpacity": "0"
+                "text": "Diapositive avec vidéo Youtube en fond et superposition de couleur. Le titre et le texte sont alignés à gauche.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
               }
             ]
-          }
+          },
+          "_anchor": "slider1-1"
         }
       ]
     }
